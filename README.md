@@ -52,11 +52,12 @@ Mesaj kutusunun yerini bulmak için Windows'un UI Automation arayüzü kullanıl
 | `derle.bat` | Windows'ta yeniden derler ve başlatır |
 | `tanilama.bat` | Günlük tutarak başlatır (`clawd-gunluk.txt`) |
 | `derle-mac.sh` | macOS ya da Linux'ta çapraz derleme |
+| `LICENSE` | MIT lisansı |
 
-## Yasal not
+## Lisans ve yasal not
 
-Clawd, Claude Code'un maskotudur. Claude, Claude Code ve Clawd Anthropic'e aittir. Bu depo Anthropic ile bağlantılı değildir ve Anthropic tarafından onaylanmamıştır. Karakter Claude Code'un açılış ekranındaki blok harflerden yola çıkılarak kodla yeniden çizildi.
+Bu depodaki kod [MIT lisansı](LICENSE) ile sunulur.
 
-Depoda henüz bir lisans dosyası yok.
+Lisans yalnız kodu kapsar. Clawd, Claude Code'un maskotudur; Claude, Claude Code ve Clawd Anthropic'e aittir ve bu lisansın kapsamında değildir. Bu depo Anthropic ile bağlantılı değildir ve Anthropic tarafından onaylanmamıştır. Karakter Claude Code'un açılış ekranındaki blok harflerden yola çıkılarak kodla yeniden çizildi.
 
 Kod Claude Code ile birlikte yazıldı.
