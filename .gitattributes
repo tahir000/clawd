@@ -1,0 +1,7 @@
+*.bat text eol=crlf
+*.cs text eol=lf
+*.sh text eol=lf
+*.md text eol=lf
+*.exe binary
+*.ico binary
+*.png binary
